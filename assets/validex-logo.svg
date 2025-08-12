@@ -3,7 +3,7 @@
   <title>Validex logo lockup (serif, no ring)</title>
   <desc>Refined icon with a sophisticated serif wordmark</desc>
   <!-- Icon -->
-  <g transform="translate(60,40) scale(2.6)">
+  <g transform="translate(60,40) scale(3.6)">
     <g fill="none" stroke="#0A1E46" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
       <path d="M 22 30 L 50 74 L 78 30"/>
     </g>
